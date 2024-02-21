@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3835221db2db52468d17a2b4da96d99, type: 3}
+  m_Name: LanguageObject
+  m_EditorClassIdentifier: Assembly-CSharp::LanguageObject
+  LanguageList:
+  - Id: 1
+    EN: Hello
+    CN: "\u4F60\u597D"
+    JAPAN: "\u3053\u3093\u306B\u3061\u306F"
+    German: Hallo!
+  - Id: 2
+    EN: School
+    CN: "\u5B66\u6821"
+    JAPAN: "\u5B66\u6821"
+    German: Schule
+  - Id: 3
+    EN: Test
+    CN: "\u6D4B\u8BD5"
+    JAPAN: "\u30C6\u30B9\u30C8"
+    German: Test
+  - Id: 4
+    EN: Where have you been
+    CN: Where have you been
+    JAPAN: Where have you been
+    German: Where have you been
+  - Id: 5
+    EN: On yeah,who got voted out?
+    CN: On yeah,who got voted out?
+    JAPAN: On yeah,who got voted out?
+    German: On yeah,who got voted out?
+  - Id: 6
+    EN: Sure,it's clrama
+    CN: Sure,it's clrama
+    JAPAN: Sure,it's clrama
+    German: Sure,it's clrama
+  - Id: 7
+    EN: Come on,I'm not that old!
+    CN: Come on,I'm not that old!
+    JAPAN: Come on,I'm not that old!
+    German: Come on,I'm not that old!

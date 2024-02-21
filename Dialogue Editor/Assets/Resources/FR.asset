@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c741190e321944f419df5a6130b6d6e7, type: 3}
+  m_Name: FR
+  m_EditorClassIdentifier: 
+  LanguageList:
+  - Id: 0
+    Content: Bonjour
+  - Id: 1
+    Content: "\xE9cole"
+  - Id: 2
+    Content: tester
+  - Id: 10
+    Content: "1 : O\xF9 \xE9tais-tu ?"
+  - Id: 11
+    Content: "a:J'\xE9tais \xE0 la maison \xE0 regarder Big Brother."
+  - Id: 12
+    Content: "b:J'\xE9tais ici tout le temps !"
+  - Id: 13
+    Content: "2:On ouais, qui a \xE9t\xE9 \xE9limin\xE9 ?"
+  - Id: 14
+    Content: "a : \xC9limin\xE9 ? Je regarde juste pour le drame !"
+  - Id: 15
+    Content: "4 : Bien s\xFBr, c'est le \"drame\"."
+  - Id: 16
+    Content: <FIN>
+  - Id: 17
+    Content: 3:Je suis juste aveugle ?
+  - Id: 18
+    Content: 'A : En fait, je suis surpris que tu me remarques.'
+  - Id: 19
+    Content: 'b : Eh bien, j''allais vous dire de prendre une ordonnance plus forte.'
+  - Id: 20
+    Content: '5 : Uhhh...'
+  - Id: 21
+    Content: <CONTINUER>
+  - Id: 30
+    Content: 6:Allez, je ne suis pas si vieux !
+  - Id: 31
+    Content: "<red\xE9marrer>"
+  - Id: 32
+    Content: "red\xE9marrer"
